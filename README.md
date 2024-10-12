@@ -1,3 +1,3 @@
 # hello-world
 
-test script
+raspberry pi stats and versions
